@@ -1,0 +1,8 @@
+"DESCRİPTİON","DURATİON İN MS","NAME","PARENT SUİTE","START TİME","STATUS","STOP TİME","SUB SUİTE","SUİTE","TEST CLASS","TEST METHOD"
+"","2489","Ürün Detaylarını Görüntüle ve Sepete Ekle","Default Suite","Mon Nov 04 16:47:03 TRT 2024","passed","Mon Nov 04 16:47:05 TRT 2024","ProductTests","SauceDemoTestAutomationExample","ProductTests","viewProductDetailsAndAddToCart"
+"","1299","Başarılı Kullanıcı Girişi Kontrolü","Default Suite","Mon Nov 04 16:46:41 TRT 2024","passed","Mon Nov 04 16:46:42 TRT 2024","LoginTests","SauceDemoTestAutomationExample","LoginTests","successfulLogin"
+"","2071","Kullanıcı Başarılı Giriş Sağlayarak Anasayfayı Görüntüleyebilme Kontrolü","Default Suite","Mon Nov 04 16:46:48 TRT 2024","passed","Mon Nov 04 16:46:50 TRT 2024","HomePageTest","SauceDemoTestAutomationExample","HomePageTest","testHomePage"
+"","1070","Doğru Kullanıcı Adı  & Yanlış Şifre Girişi Kontrolu","Default Suite","Mon Nov 04 16:46:32 TRT 2024","passed","Mon Nov 04 16:46:33 TRT 2024","LoginTests","SauceDemoTestAutomationExample","LoginTests","LoginUnsuccesfulControl"
+"","964","Kullanıcı Adı ve Şifrenin Boş Bırakılma Kontrolü","Default Suite","Mon Nov 04 16:46:06 TRT 2024","passed","Mon Nov 04 16:46:07 TRT 2024","LoginTests","SauceDemoTestAutomationExample","LoginTests","LoginRequiredControl"
+"","1090","Yanlış Kullanıcı Adı &  Doğru Şifre Girişi Kontrolü","Default Suite","Mon Nov 04 16:46:14 TRT 2024","passed","Mon Nov 04 16:46:16 TRT 2024","LoginTests","SauceDemoTestAutomationExample","LoginTests","LoginUnsuccesful2Control"
+"","1246","Yanlış Kullanıcı &  Yanlış Şifre Girişi Kontrolü","Default Suite","Mon Nov 04 16:46:23 TRT 2024","passed","Mon Nov 04 16:46:24 TRT 2024","LoginTests","SauceDemoTestAutomationExample","LoginTests","LoginUnsuccesful3Control"
